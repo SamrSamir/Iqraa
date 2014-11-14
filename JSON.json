@@ -1,0 +1,40 @@
+{
+  "ionicJS": "https://www.dropbox.com/s/04iii2y5hubhpbm/ionic.bundle.js?dl=1",
+  "ionicCSS": "https://www.dropbox.com/s/x512khu4ly8mkku/ionic.css?dl=1",
+  "index": "https://www.dropbox.com/s/0wuyhrr5ierw6vl/index.html?dl=1",
+  "lesson1": {
+    "index": "https://www.dropbox.com/s/la3qpun2870lyzc/index.html?dl=1",
+    "controller": "https://www.dropbox.com/s/cukynwfm1lyh7cn/controllers.js?dl=1",
+    "app": "https://www.dropbox.com/s/3kh5og9otr6xiwq/app.js?dl=1",
+    "partials": {
+      "page1": "https://www.dropbox.com/s/ymqqveduz7gwc5r/page1.html?dl=1",
+      "page2": "https://www.dropbox.com/s/4doswn13c8kimrg/page2.html?dl=1",
+      "page3": "https://www.dropbox.com/s/l1rm5iodg6p5pod/page3.html?dl=1",
+      "page4": "https://www.dropbox.com/s/m2f7kimxhmawyqg/page4.html?dl=1",
+      "page5": "https://www.dropbox.com/s/md5yp36kb47rlyl/page5.html?dl=1"
+
+    },
+    "mp3": {
+      "song1": "https://www.dropbox.com/s/i1bvlzr9von37dj/song1.mp3?dl=1",
+      "name2": "https://www.dropbox.com/s/owl1giww24sd9kp/song2.mp3?dl=1"
+    },
+    "images": {
+      "alif": "https://www.dropbox.com/s/wdfzr104xexo3hw/alif.png?dl=1",
+      "alpha": "https://www.dropbox.com/s/qxvyfhb4e3vf0q3/alpha.png?dl=1",
+      "alphabet": "https://www.dropbox.com/s/adwb30cmo768vdw/alphabet.png?dl=1",
+      "ba":"https://www.dropbox.com/s/ha1pprforkk360g/ba.png?dl=1",
+      "pic1":"https://www.dropbox.com/s/xatgrrmk1w4sd2t/pic1.png?dl=1",
+      "pic2":"https://www.dropbox.com/s/j1f1ga70zo8e8j5/pic2.png?dl=1",
+      "pic3":"https://www.dropbox.com/s/6hv7weehf81mz4q/pic3.png?dl=1",
+      "pic4":"https://www.dropbox.com/s/rojwc4pgw5qfe63/pic4.png?dl=1",
+      "pic5":"https://www.dropbox.com/s/aqvbymop7edhyhh/pic5.png?dl=1",
+      "pic6":"https://www.dropbox.com/s/xb7mebw7hhzxh0v/pic6.png?dl=1",
+      "pic7":"https://www.dropbox.com/s/39518eh70wccb9n/pic7.png?dl=1",
+      "pic8":"https://www.dropbox.com/s/1brm300y5o2m4du/pic8.png?dl=1",
+      "pic9":"https://www.dropbox.com/s/sxde55afx6mpvfy/pic9.png?dl=1"
+    },
+    "videos": {
+      "video1": "https://www.dropbox.com/s/jlg9qkm5oessjtw/video1.mp4?dl=1"
+    }
+  }
+}
