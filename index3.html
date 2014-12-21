@@ -7,20 +7,6 @@
 
     <link href="ionic.css" rel="stylesheet">
     <script src="ionic.bundle.js"></script>
-  <script type="text/javascript">
-          function playSound(el,soundfile) {
-              var embed = document.getElementById("embed");
-              if (!embed) {
-                  var embed = document.createElement("embed");
-                      embed.id= "embed";
-                      embed.setAttribute("src", soundfile);
-                      embed.setAttribute("hidden", "true");
-                  el.appendChild(embed);
-              } else {
-                  embed.parentNode.removeChild(embed);
-              }
-          }
-      </script>
   </head>
   <body ng-app>
 
@@ -43,7 +29,7 @@
          type='audio/mp3'>
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
-      <audio autoplay>
+      <audio controls>
  <source src="http://media.w3.org/2010/07/bunny/04-Death_Becomes_Fur.mp4"
          type='audio/mp4'>
  <source src="http://media.w3.org/2010/07/bunny/04-Death_Becomes_Fur.oga"
